@@ -1,0 +1,16 @@
+/* You can add global styles to this file, and also import other style files */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Reem Kufi", sans-serif !important;
+  }
+  body{
+    background-color: #000;
+    overflow-x: hidden;
+    color:#fff;
+  }
+  :root{
+    --primary-color: #ff0000;
+    --secondary-color: #006600;
+}

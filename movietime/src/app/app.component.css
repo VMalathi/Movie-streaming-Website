@@ -1,0 +1,8 @@
+.navbar .navbar-brand{
+    color:var(--primary-color) !important;
+    font-weight:bold;
+}
+
+.navbar .nav-item .nav-link{
+    color:var(--primary-color) !important;
+}

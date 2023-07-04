@@ -1,0 +1,14 @@
+h1{
+    color: var(--primary-color);
+    font-weight: bold;
+}
+a{
+    background-color: var(--primary-color);
+    color: #fff;
+    text-decoration: none;
+}
+a:hover{
+    background-color: var(--primary-color);
+    color: #fff;
+    border: 2px solid #fff;
+}
